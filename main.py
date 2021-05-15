@@ -1,3 +1,6 @@
+# ARCHIVO CREADO POR ESTEFANÍA SANTANA -
+
+
 from mapas import MAPAS
 from sudoku import *
 import random
