@@ -9,3 +9,5 @@ Este proyecto fue parte de mi aprendizaje y experiencia en la facultad, el cual 
 El código es libre para cualquier persona que quiera probarlo, si no se entiende alguna parte del código de ambos archivos pueden consultarme.
 
 NO es necesario ejecutar el archivo `sudoku-test.py` para el funcionamiento del juego ya que es para entender mejor el funcionamiento de los códigos en `sudoku.py`.
+
+El archivo `main2.py` es mi original proyecto, sin embargo, para una mayor comprensión de la sintaxis, puede ser que el archivo `main.py` sea más adecuado.
